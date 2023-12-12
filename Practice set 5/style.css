@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+div{
+    
+    width: 363px;
+    height: 219px;
+    background-image: url("./free_palestine.jpg");
+    background-size: cover;
+    position: fixed;
+    right: 0;
+    top: 69px;
+    color: red;
+    text-align: center;
+    font-size: 38px;
+    font-style: oblique;
+    font-weight: 800;
+    text-shadow: 2px 2px 5px rgb(23, 93, 23) ;
+
+
+}
+p,div{
+    margin: auto;
+
+}

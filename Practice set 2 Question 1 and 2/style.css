@@ -1,0 +1,21 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+h1,p{
+    text-align: center;
+    font-family: Time New Roman;
+}
+p {
+    text-transform: capitalize;
+    font-size: 50px;
+}
+@font-face {
+    font-family: Time New Roman;
+    src: url(./Times-New-Roman/Times\ New\ Roman/Times-New-Roman);
+}
+h1{
+    font-size: 100px;
+}
+
